@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anuragcbms
 - 👀 I’m interested in ASP.net, MVC, C#
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on Umbraco
+- 💞️ I’m looking to collaborate ...
 - 📫 How to reach me -
 
 <!---
